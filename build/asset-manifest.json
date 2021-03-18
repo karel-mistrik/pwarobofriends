@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/karel-mistrik/pwarobofriends/static/css/main.b2ba9e7f.chunk.css",
+    "main.js": "/karel-mistrik/pwarobofriends/static/js/main.f95c0435.chunk.js",
+    "main.js.map": "/karel-mistrik/pwarobofriends/static/js/main.f95c0435.chunk.js.map",
+    "runtime-main.js": "/karel-mistrik/pwarobofriends/static/js/runtime-main.c7e55299.js",
+    "runtime-main.js.map": "/karel-mistrik/pwarobofriends/static/js/runtime-main.c7e55299.js.map",
+    "static/css/2.9a477ee2.chunk.css": "/karel-mistrik/pwarobofriends/static/css/2.9a477ee2.chunk.css",
+    "static/js/2.88abc195.chunk.js": "/karel-mistrik/pwarobofriends/static/js/2.88abc195.chunk.js",
+    "static/js/2.88abc195.chunk.js.map": "/karel-mistrik/pwarobofriends/static/js/2.88abc195.chunk.js.map",
+    "index.html": "/karel-mistrik/pwarobofriends/index.html",
+    "static/css/2.9a477ee2.chunk.css.map": "/karel-mistrik/pwarobofriends/static/css/2.9a477ee2.chunk.css.map",
+    "static/css/main.b2ba9e7f.chunk.css.map": "/karel-mistrik/pwarobofriends/static/css/main.b2ba9e7f.chunk.css.map",
+    "static/js/2.88abc195.chunk.js.LICENSE.txt": "/karel-mistrik/pwarobofriends/static/js/2.88abc195.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/karel-mistrik/pwarobofriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7e55299.js",
+    "static/css/2.9a477ee2.chunk.css",
+    "static/js/2.88abc195.chunk.js",
+    "static/css/main.b2ba9e7f.chunk.css",
+    "static/js/main.f95c0435.chunk.js"
+  ]
+}
